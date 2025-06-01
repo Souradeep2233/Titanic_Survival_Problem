@@ -183,7 +183,7 @@ We welcome and appreciate contributions to this project\! If you have suggestion
 
 ## **📜 License**
 
-This project is open-source and available under the [MIT License](http://docs.google.com/LICENSE).
+This project is open-source and available under the MIT LICENSE.
 
 ## **📧 Contact**
 
